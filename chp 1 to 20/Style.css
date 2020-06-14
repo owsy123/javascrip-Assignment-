@@ -1,0 +1,176 @@
+.khan {
+    height: 42px;
+    text-align-last: left;
+    background-color: #316DC3;
+    text-align: center;
+    margin-top: 12px;
+    background-color: #316DC3;
+    color: white;
+    display: flex;
+    justify-content: inherit;
+    margin-left: 23px;
+}
+
+a {
+    color: white;
+    border: black;
+    text-align: center;
+}
+
+span {
+    font-size: 25px;
+    font-style: normal;
+    font: menu;
+    float: inherit;
+    height: 50%;
+    width: 50%;
+    text-align: justify;
+    justify-self: first baseline;
+    vertical-align: super;
+    justify-content: inherit;
+    display: flex;
+}
+
+.huzaifa {
+    background-color: gainsboro;
+    height: 42;
+    width: 200;
+}
+
+.play-icon-img {
+    background: url(./images/khuddam/video-play-icon.png) no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    height: 100px;
+    width: 100px;
+    outline: none;
+}
+
+row {
+    background: #00FF00;
+    color: #FFFFFF;
+    background-color: #160#160;
+    color: blue #160 #160;
+}
+
+.hello {
+    background-color: #316DC3;
+    text-align: center;
+    padding: 1px;
+    background-position: 7px 4px;
+    margin: auto;
+}
+
+.para {
+    color: blue;
+}
+
+span.fight {
+    color: chartreuse;
+    padding-left: 200;
+}
+
+span.colour {
+    color: cornsilk;
+    margin: auto;
+}
+
+.green {
+    color: gray;
+    height: 50px;
+    padding-left: 400px;
+}
+
+img.url {
+    height: 50px;
+    text-align: center;
+    padding-left: 900px;
+}
+
+picture {
+    text-align: bottom;
+    padding: 880px;
+    vertical-align: text-bottom;
+    color: skyblue;
+}
+
+span.span {
+    color: skyblue;
+    float: inherit;
+}
+
+span.plz {
+    color: rgb(4, 112, 4);
+}
+
+@media only screen and (max-width: 600px) {
+    * {
+        background-color: yellowgreen;
+        background-color: yellowgreen;
+    }
+}
+
+p.blue {
+    background-color: blue;
+    font-color: #00FF00;
+    font-weight: 600;
+}
+
+span.blue {
+    color: #00FF00;
+}
+
+.intro {
+    color: white;
+}
+
+h5 {
+    background-color: blue;
+    text-align: center;
+    border: chartreuse;
+}
+
+img {
+    padding-left: 23px;
+    display: flex;
+}
+
+P {
+    padding: 23px;
+    color: ivory;
+    display: flex;
+}
+
+button {
+    color: black;
+    margin-left: 60px;
+}
+
+a.span {
+    margin-left: 60px;
+    color: white;
+}
+
+div.bee {
+    color: ivory;
+    background-color: silver;
+    height: 42px;
+    background-color: silver;
+    text-align: center;
+    margin-top: 12px;
+    color: black;
+    display: flex;
+    justify-content: inherit;
+    margin-left: 0px;
+}
+
+ul.menuzord-menu {
+    background-color: lightgray;
+    margin-left: 180px;
+}
+
+div.menuzord-menu {
+    background-color: lightgray;
+    justify-content: inherit;
+    display: flex;
+}
